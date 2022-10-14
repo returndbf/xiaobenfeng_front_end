@@ -1,0 +1,16 @@
+page{
+  background: #fff3f3;
+}
+.container{
+  margin-top: 100px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.mission-img{
+  height:13vh;
+  width:70vw;
+  margin-bottom: 30px;
+}

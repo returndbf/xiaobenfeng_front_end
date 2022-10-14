@@ -1,0 +1,18 @@
+.at-modal__container{
+  height:20vh;
+  border-radius: 20px;
+}
+
+/*.at-modal__header{*/
+/*  margin-top: 1vh;*/
+/*  height:5vh;*/
+/*}*/
+.at-modal__footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+/*scroll-view{*/
+/*  background-color: #4b1616;*/
+/*}*/
